@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 Data Science student
-💻 Currently learning Python, machine learning, and data analytics
-📊 Interested in data visualization and turning raw data into meaningful insights
-🌱 Exploring new technologies and building projects to improve my skills
-✨ Passionate about solving problems with data
+- 🎓 Data Science student
+- 💻 Currently learning Python, machine learning, and data analytics
+- 📊 Interested in data visualization and turning raw data into meaningful insights
+- 🌱 Exploring new technologies and building projects to improve my skills
+- ✨ Passionate about solving problems with data
