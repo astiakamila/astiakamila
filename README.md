@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Astia Kamila 👋
+
+![Header Astia](img/github-header-banner.png)
 
 <!--
 **astiakamila/astiakamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 Data Science student
+💻 Currently learning Python, machine learning, and data analytics
+📊 Interested in data visualization and turning raw data into meaningful insights
+🌱 Exploring new technologies and building projects to improve my skills
+✨ Passionate about solving problems with data
